@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>ThoriumMod</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net40</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>Preview</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="Terraria">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\tModLoader\tModLoader.exe</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Game" />
+    <Reference Include="Microsoft.Xna.Framework" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics" />
+    <Reference Include="System.Core" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\terraria\Terraria.Libraries.JSON.NET.Ne.dll</HintPath>
+    </Reference>
+    <Reference Include="TerrariaHooks" />
+    <Reference Include="ReLogic">
+      <HintPath>..\terraria\Terraria.Libraries.ReLogic.ReL.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net" />
+    <Reference Include="System.ValueTuple">
+      <HintPath>..\terraria\Terraria.Libraries.NVorbis.Sys.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

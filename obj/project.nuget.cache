@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Wh0AT2kJFYuaQLjI1K6O+NK5jBCodEERE+OP0AGO+7Yw7EvDNMBAyPocIkzEiHX9nvv1GIgVlGYg5vlZLXWjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nefar\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\liladosSoul\\liladosSoul.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nefar\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\nefar\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net45\\1.0.3\\microsoft.netframework.referenceassemblies.net45.1.0.3.nupkg.sha512",
+    "C:\\Users\\nefar\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
